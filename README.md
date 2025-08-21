@@ -24,6 +24,9 @@ Sustainable Shopping Gap
 
 This project served as a comprehensive example of the complete data science workflow from raw data to great insights. It demonstrates Tableau & SQL mastery through advanced visualization techniques and dashboard design, and also provides insights into consumer behavior analysis.
 
+## Screenshot
+<img width="2833" height="1430" alt="image" src="https://github.com/user-attachments/assets/fb12db27-3b16-454d-b851-c3f90e16f6dc" />
+
 ## Data Viz 1
 
 Consumer Behavior Correlation
